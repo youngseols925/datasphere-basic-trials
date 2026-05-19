@@ -1,4 +1,4 @@
-# Guided Tours 탐색
+# Guided Tours 탐색 ㅅㄴㄷㅅ
 
 > **원본 레슨**: guided-tours | **소요시간**: 15분
 
