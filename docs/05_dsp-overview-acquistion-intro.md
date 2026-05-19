@@ -51,4 +51,4 @@ SAP Datasphere를 통해 어디서든 데이터를 가상으로 접근하거나 
 
 ## 화면 스크린샷
 
-![화면1](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_1_image01.png)
+![화면1](../images/510_DSP_Data_Acquisition_Images_510_1_image01.png)

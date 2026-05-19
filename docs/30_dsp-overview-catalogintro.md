@@ -30,6 +30,6 @@ SAP Datasphere **Catalog**의 개념과 활용 방법을 이해합니다.
 
 ## 화면 스크린샷
 
-![화면1](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/530_DSP_Catalog/Images/530_1_image2a.png)
+![화면1](../images/530_DSP_Catalog_Images_530_1_image2a.png)
 
-![화면2](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/530_DSP_Catalog/Images/530_1_image1.png)
+![화면2](../images/530_DSP_Catalog_Images_530_1_image1.png)

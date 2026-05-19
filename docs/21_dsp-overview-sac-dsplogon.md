@@ -22,16 +22,16 @@ Chrome 브라우저를 열고 워크샵 주관자가 제공한 SAP Datasphere UR
 
 ## 화면 스크린샷
 
-![화면1](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_10_image01.png)
+![화면1](../images/560_DSP_SAC_Visualization_Images_560_10_image01.png)
 
-![화면2](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_10_image02.png)
+![화면2](../images/560_DSP_SAC_Visualization_Images_560_10_image02.png)
 
-![화면3](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_10_image03.png)
+![화면3](../images/560_DSP_SAC_Visualization_Images_560_10_image03.png)
 
-![화면4](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_10_image04.png)
+![화면4](../images/560_DSP_SAC_Visualization_Images_560_10_image04.png)
 
-![화면5](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_10_image05.png)
+![화면5](../images/560_DSP_SAC_Visualization_Images_560_10_image05.png)
 
-![화면6](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_10_image06.png)
+![화면6](../images/560_DSP_SAC_Visualization_Images_560_10_image06.png)
 
-![화면7](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_10_image08.png)
+![화면7](../images/560_DSP_SAC_Visualization_Images_560_10_image08.png)

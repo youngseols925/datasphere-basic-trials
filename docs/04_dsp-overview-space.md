@@ -36,16 +36,16 @@ SAP Datasphere 사용자 스페이스에 접근하고 탐색합니다.
 
 ## 화면 스크린샷
 
-![화면1](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/505_DSP_Getting_Started/Images/505_5_image01.png)
+![화면1](../images/505_DSP_Getting_Started_Images_505_5_image01.png)
 
-![화면2](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/505_DSP_Getting_Started/Images/505_5_image02.png)
+![화면2](../images/505_DSP_Getting_Started_Images_505_5_image02.png)
 
-![화면3](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/505_DSP_Getting_Started/Images/505_5_image03.png)
+![화면3](../images/505_DSP_Getting_Started_Images_505_5_image03.png)
 
-![화면4](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/505_DSP_Getting_Started/Images/505_5_image05.png)
+![화면4](../images/505_DSP_Getting_Started_Images_505_5_image05.png)
 
-![화면5](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/505_DSP_Getting_Started/Images/505_5_image09.png)
+![화면5](../images/505_DSP_Getting_Started_Images_505_5_image09.png)
 
-![화면6](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/505_DSP_Getting_Started/Images/505_5_image10.png)
+![화면6](../images/505_DSP_Getting_Started_Images_505_5_image10.png)
 
-![화면7](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/505_DSP_Getting_Started/Images/505_5_image11.png)
+![화면7](../images/505_DSP_Getting_Started_Images_505_5_image11.png)

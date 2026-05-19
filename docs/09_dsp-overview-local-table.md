@@ -43,22 +43,22 @@ SAP Datasphere에서 빈 테이블을 생성하고 데이터를 가져오는 방
 
 ## 화면 스크린샷
 
-![화면1](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_6_image01.png)
+![화면1](../images/510_DSP_Data_Acquisition_Images_510_6_image01.png)
 
-![화면2](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_6_image02.png)
+![화면2](../images/510_DSP_Data_Acquisition_Images_510_6_image02.png)
 
-![화면3](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_6_image03.png)
+![화면3](../images/510_DSP_Data_Acquisition_Images_510_6_image03.png)
 
-![화면4](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_6_image05.png)
+![화면4](../images/510_DSP_Data_Acquisition_Images_510_6_image05.png)
 
-![화면5](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_6_image06.png)
+![화면5](../images/510_DSP_Data_Acquisition_Images_510_6_image06.png)
 
-![화면6](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_6_image07.png)
+![화면6](../images/510_DSP_Data_Acquisition_Images_510_6_image07.png)
 
-![화면7](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_6_image08.png)
+![화면7](../images/510_DSP_Data_Acquisition_Images_510_6_image08.png)
 
-![화면8](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_6_image09.png)
+![화면8](../images/510_DSP_Data_Acquisition_Images_510_6_image09.png)
 
-![화면9](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_6_image10.png)
+![화면9](../images/510_DSP_Data_Acquisition_Images_510_6_image10.png)
 
-![화면10](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_6_image12.png)
+![화면10](../images/510_DSP_Data_Acquisition_Images_510_6_image12.png)

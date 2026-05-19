@@ -40,18 +40,18 @@ Catalog를 탐색하여 데이터 자산에 대한 인사이트를 얻습니다.
 
 ## 화면 스크린샷
 
-![화면1](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/530_DSP_Catalog/Images/530_3_image1.png)
+![화면1](../images/530_DSP_Catalog_Images_530_3_image1.png)
 
-![화면2](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/530_DSP_Catalog/Images/530_3_image2.png)
+![화면2](../images/530_DSP_Catalog_Images_530_3_image2.png)
 
-![화면3](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/530_DSP_Catalog/Images/530_3_image3.png)
+![화면3](../images/530_DSP_Catalog_Images_530_3_image3.png)
 
-![화면4](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/530_DSP_Catalog/Images/530_3_image4.png)
+![화면4](../images/530_DSP_Catalog_Images_530_3_image4.png)
 
-![화면5](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/530_DSP_Catalog/Images/530_3_image5.png)
+![화면5](../images/530_DSP_Catalog_Images_530_3_image5.png)
 
-![화면6](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/530_DSP_Catalog/Images/530_3_image6.png)
+![화면6](../images/530_DSP_Catalog_Images_530_3_image6.png)
 
-![화면7](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/530_DSP_Catalog/Images/530_3_image7.png)
+![화면7](../images/530_DSP_Catalog_Images_530_3_image7.png)
 
-![화면8](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/530_DSP_Catalog/Images/530_3_image8.png)
+![화면8](../images/530_DSP_Catalog_Images_530_3_image8.png)

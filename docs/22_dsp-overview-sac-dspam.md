@@ -29,14 +29,14 @@ JSON 파일에서 Analytic Model 템플릿을 임포트하여 SAP Analytics Clou
 
 ## 화면 스크린샷
 
-![화면1](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_11_image03.png)
+![화면1](../images/560_DSP_SAC_Visualization_Images_560_11_image03.png)
 
-![화면2](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_11_image05.png)
+![화면2](../images/560_DSP_SAC_Visualization_Images_560_11_image05.png)
 
-![화면3](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_11_image07.png)
+![화면3](../images/560_DSP_SAC_Visualization_Images_560_11_image07.png)
 
-![화면4](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_11_image07a.png)
+![화면4](../images/560_DSP_SAC_Visualization_Images_560_11_image07a.png)
 
-![화면5](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_11_image07b.png)
+![화면5](../images/560_DSP_SAC_Visualization_Images_560_11_image07b.png)
 
-![화면6](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_11_image09.png)
+![화면6](../images/560_DSP_SAC_Visualization_Images_560_11_image09.png)

@@ -31,8 +31,8 @@ SAP Datasphere에 대해 더 깊이 학습할 수 있는 외부 링크와 커뮤
 
 ## 화면 스크린샷
 
-![화면1](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/580_DSP_Appendix/Images/580_1_image2.png)
+![화면1](../images/580_DSP_Appendix_Images_580_1_image2.png)
 
-![화면2](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/580_DSP_Appendix/Images/580_1_image3.png)
+![화면2](../images/580_DSP_Appendix_Images_580_1_image3.png)
 
-![화면3](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/580_DSP_Appendix/Images/580_1_image7.png)
+![화면3](../images/580_DSP_Appendix_Images_580_1_image7.png)

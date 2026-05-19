@@ -47,26 +47,26 @@ Dimension 시맨틱 유형의 그래픽 뷰를 생성하고, 지오코드 데이
 
 ## 화면 스크린샷
 
-![화면1](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_4_image01.png)
+![화면1](../images/515_DSP_Data_Modeling_Images_515_4_image01.png)
 
-![화면2](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_4_image02.png)
+![화면2](../images/515_DSP_Data_Modeling_Images_515_4_image02.png)
 
-![화면3](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_4_image03.png)
+![화면3](../images/515_DSP_Data_Modeling_Images_515_4_image03.png)
 
-![화면4](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_4_image05.png)
+![화면4](../images/515_DSP_Data_Modeling_Images_515_4_image05.png)
 
-![화면5](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_4_image07.png)
+![화면5](../images/515_DSP_Data_Modeling_Images_515_4_image07.png)
 
-![화면6](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_4_image09.png)
+![화면6](../images/515_DSP_Data_Modeling_Images_515_4_image09.png)
 
-![화면7](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_4_image11.png)
+![화면7](../images/515_DSP_Data_Modeling_Images_515_4_image11.png)
 
-![화면8](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_4_image13.png)
+![화면8](../images/515_DSP_Data_Modeling_Images_515_4_image13.png)
 
-![화면9](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_4_image15.png)
+![화면9](../images/515_DSP_Data_Modeling_Images_515_4_image15.png)
 
-![화면10](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_4_image17.png)
+![화면10](../images/515_DSP_Data_Modeling_Images_515_4_image17.png)
 
-![화면11](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_4_image19.png)
+![화면11](../images/515_DSP_Data_Modeling_Images_515_4_image19.png)
 
-![화면12](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_4_image20.png)
+![화면12](../images/515_DSP_Data_Modeling_Images_515_4_image20.png)

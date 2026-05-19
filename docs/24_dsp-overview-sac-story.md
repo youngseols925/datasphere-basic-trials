@@ -36,16 +36,16 @@
 
 ## 화면 스크린샷
 
-![화면1](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_3_image2.png)
+![화면1](../images/560_DSP_SAC_Visualization_Images_560_3_image2.png)
 
-![화면2](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_3_image3.png)
+![화면2](../images/560_DSP_SAC_Visualization_Images_560_3_image3.png)
 
-![화면3](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_3_image4.png)
+![화면3](../images/560_DSP_SAC_Visualization_Images_560_3_image4.png)
 
-![화면4](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_3_image5.png)
+![화면4](../images/560_DSP_SAC_Visualization_Images_560_3_image5.png)
 
-![화면5](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_3_image6.png)
+![화면5](../images/560_DSP_SAC_Visualization_Images_560_3_image6.png)
 
-![화면6](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_3_image7.png)
+![화면6](../images/560_DSP_SAC_Visualization_Images_560_3_image7.png)
 
-![화면7](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_3_image8.png)
+![화면7](../images/560_DSP_SAC_Visualization_Images_560_3_image8.png)

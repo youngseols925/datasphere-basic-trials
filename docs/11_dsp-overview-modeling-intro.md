@@ -37,8 +37,8 @@
 
 ## 화면 스크린샷
 
-![화면1](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_1_image01.png)
+![화면1](../images/515_DSP_Data_Modeling_Images_515_1_image01.png)
 
-![화면2](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_1_image02.png)
+![화면2](../images/515_DSP_Data_Modeling_Images_515_1_image02.png)
 
-![화면3](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_1_image04.png)
+![화면3](../images/515_DSP_Data_Modeling_Images_515_1_image04.png)

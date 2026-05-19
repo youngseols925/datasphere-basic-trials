@@ -21,4 +21,4 @@ SAP Datasphere의 기능과 특징을 단계별 가상 워크스루(Virtual Walk
 
 ## 화면 스크린샷
 
-![화면1](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/495_Guided_Tours/Images/1.png)
+![화면1](../images/495_Guided_Tours_Images_1.png)
