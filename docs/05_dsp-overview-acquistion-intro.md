@@ -49,4 +49,6 @@ SAP Datasphere를 통해 어디서든 데이터를 가상으로 접근하거나 
 - 페더레이션과 복제 방식을 비즈니스 요건에 따라 선택하거나 혼합 사용 가능
 - 클릭 한 번으로 페더레이션 ↔ 영속 데이터 전환 가능
 
-![스크린샷](../screenshots/05_dsp-overview-acquistion-intro.png)
+## 화면 스크린샷
+
+![화면1](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_1_image01.png)

@@ -19,4 +19,6 @@ SAP Datasphere의 기능과 특징을 단계별 가상 워크스루(Virtual Walk
 - 단계별로 구성된 가상 워크스루로 실제 시스템 환경을 미리 체험할 수 있습니다.
 - 투어 완료 후 다음 단원(Getting started with SAP Datasphere)으로 진행합니다.
 
-![스크린샷](../screenshots/01_guided-tours.png)
+## 화면 스크린샷
+
+![화면1](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/495_Guided_Tours/Images/1.png)

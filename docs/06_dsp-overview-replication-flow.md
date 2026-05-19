@@ -52,4 +52,46 @@ Replication Flow는 하나의 소스에서 단일 타겟으로 여러 데이터 
 - 타겟 오브젝트에서 필터 및 매핑 세부 설정 가능
 - **Data Integration Monitor**에서 복제 작업 모니터링
 
-![스크린샷](../screenshots/06_dsp-overview-replication-flow.png)
+## 화면 스크린샷
+
+![화면1](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_2_image01.png)
+
+![화면2](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_2_image02.png)
+
+![화면3](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_2_image05.png)
+
+![화면4](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_2_image06.png)
+
+![화면5](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_2_image07.png)
+
+![화면6](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_2_image08.png)
+
+![화면7](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_2_image09.png)
+
+![화면8](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_2_image10.png)
+
+![화면9](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_2_image11.png)
+
+![화면10](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_2_image12.png)
+
+![화면11](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_2_image14.png)
+
+![화면12](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_2_image16.png)
+
+![화면13](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_2_image17.png)
+
+![화면14](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_2_image20.png)
+
+![화면15](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_2_image21.png)
+
+![화면16](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_2_image22.png)
+
+![화면17](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_2_image24.png)
+
+![화면18](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_2_image25.png)
+
+![화면19](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_2_image28.png)
+
+![화면20](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_2_image29.png)
+
+![화면21](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_2_image30.png)

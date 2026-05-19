@@ -35,4 +35,10 @@
 - 시맨틱 유형 지정으로 BI 도구가 데이터를 올바르게 해석 가능
 - 모듈식 접근: **CENTRAL_DATA** 공유 데이터를 활용해 이전 단원 없이도 진행 가능
 
-![스크린샷](../screenshots/11_dsp-overview-modeling-intro.png)
+## 화면 스크린샷
+
+![화면1](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_1_image01.png)
+
+![화면2](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_1_image02.png)
+
+![화면3](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_1_image04.png)

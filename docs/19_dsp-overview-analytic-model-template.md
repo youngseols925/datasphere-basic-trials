@@ -35,3 +35,13 @@
 4. **Preview** 전환하여 데이터 확인
 
 > 이 템플릿을 통해 SAP Analytics Cloud와의 라이브 연결(Live Connection) 소스로 활용할 수 있습니다.
+
+## 화면 스크린샷
+
+![화면1](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/525_DSP_Analytic_Model/Images/525_7_image03.png)
+
+![화면2](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/525_DSP_Analytic_Model/Images/525_7_image05.png)
+
+![화면3](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/525_DSP_Analytic_Model/Images/525_7_image07.png)
+
+![화면4](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/525_DSP_Analytic_Model/Images/525_7_image09.png)

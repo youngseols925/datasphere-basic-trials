@@ -54,4 +54,36 @@ Dimension 시맨틱 유형의 그래픽 뷰를 생성하고, 제품 관련 데�
 - **Dimension** 시맨틱 설정 후 SAC에서 분석 차원으로 활용
 - **Data Persistence**로 성능 최적화 및 오프라인 분석 지원
 
-![스크린샷](../screenshots/12_dsp-overview-product-dimension.png)
+## 화면 스크린샷
+
+![화면1](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_3_image01.png)
+
+![화면2](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_3_image02.png)
+
+![화면3](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_3_image03.png)
+
+![화면4](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_3_image04.png)
+
+![화면5](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_3_image05.png)
+
+![화면6](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_3_image06.png)
+
+![화면7](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_3_image07.png)
+
+![화면8](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_3_image08.png)
+
+![화면9](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_3_image10.png)
+
+![화면10](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_3_image11.png)
+
+![화면11](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_3_image12.png)
+
+![화면12](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_3_image15.png)
+
+![화면13](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_3_image16.png)
+
+![화면14](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_3_image17.png)
+
+![화면15](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_3_image18.png)
+
+![화면16](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_3_image21.png)

@@ -28,3 +28,11 @@ SAP Datasphere에 대해 더 깊이 학습할 수 있는 외부 링크와 커뮤
 
 > 🎉 **SAP Datasphere Overview 학습 과정을 모두 완료했습니다!**
 > 본 과정에서는 데이터 수집(Replication Flow, Data Flow, Remote Table, Local Table), 데이터 모델링(Dimension View, Fact View), 분석 모델링(Analytic Model), SAP Analytics Cloud 리포팅, Catalog 탐색, Open SQL Schema, Data Access Control까지 SAP Datasphere의 핵심 기능 전반을 다루었습니다.
+
+## 화면 스크린샷
+
+![화면1](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/580_DSP_Appendix/Images/580_1_image2.png)
+
+![화면2](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/580_DSP_Appendix/Images/580_1_image3.png)
+
+![화면3](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/580_DSP_Appendix/Images/580_1_image7.png)

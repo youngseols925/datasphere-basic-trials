@@ -27,3 +27,9 @@ SAP Datasphere **Catalog**의 개념과 활용 방법을 이해합니다.
 > 💡 이 단원에서 탐색할 자산은 이전 단원에서 생성한 오브젝트의 사본으로, 이미 보강(Enrich) 및 게시(Publish) 처리되어 있습니다.
 >
 > SAP Help Portal의 **Catalog Concepts** 문서를 참조하세요.
+
+## 화면 스크린샷
+
+![화면1](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/530_DSP_Catalog/Images/530_1_image2a.png)
+
+![화면2](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/530_DSP_Catalog/Images/530_1_image1.png)

@@ -31,4 +31,8 @@
 - 모든 수집 오브젝트는 **CENTRAL_DATA** 공유 스페이스에도 사전 준비되어 있음
 - 다음 단원(Data Modeling)을 독립적으로 시작할 수 있음
 
-![스크린샷](../screenshots/10_dsp-overview-acquistion-summary.png)
+## 화면 스크린샷
+
+![화면1](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_8_image01.png)
+
+![화면2](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/510_DSP_Data_Acquisition/Images/510_8_image03.png)

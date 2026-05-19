@@ -45,4 +45,28 @@ Dimension 시맨틱 유형의 그래픽 뷰를 생성하고, 지오코드 데이
 - **Association**으로 차원 간 관계 정의 → SAC에서 자동 조인
 - **Impact & Lineage Analysis**에서 오브젝트 간 의존 관계 시각화
 
-![스크린샷](../screenshots/13_dsp-overview-address-dimension.png)
+## 화면 스크린샷
+
+![화면1](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_4_image01.png)
+
+![화면2](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_4_image02.png)
+
+![화면3](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_4_image03.png)
+
+![화면4](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_4_image05.png)
+
+![화면5](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_4_image07.png)
+
+![화면6](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_4_image09.png)
+
+![화면7](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_4_image11.png)
+
+![화면8](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_4_image13.png)
+
+![화면9](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_4_image15.png)
+
+![화면10](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_4_image17.png)
+
+![화면11](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_4_image19.png)
+
+![화면12](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/515_DSP_Data_Modeling/Images/515_4_image20.png)

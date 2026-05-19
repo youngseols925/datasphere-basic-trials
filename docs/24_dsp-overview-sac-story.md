@@ -33,3 +33,19 @@
 - 작업 완료 후 **Save** 하여 Story 저장
 
 > 💡 브라우저 크기에 따라 일부 기능만 표시될 수 있습니다.
+
+## 화면 스크린샷
+
+![화면1](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_3_image2.png)
+
+![화면2](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_3_image3.png)
+
+![화면3](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_3_image4.png)
+
+![화면4](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_3_image5.png)
+
+![화면5](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_3_image6.png)
+
+![화면6](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_3_image7.png)
+
+![화면7](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_3_image8.png)

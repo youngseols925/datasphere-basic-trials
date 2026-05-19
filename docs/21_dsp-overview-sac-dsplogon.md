@@ -19,3 +19,19 @@ Chrome 브라우저를 열고 워크샵 주관자가 제공한 SAP Datasphere UR
 - 좌측 상단 사이드 네비게이션 메뉴 확장/축소
 - 우측 상단 **"?"** 아이콘: 인앱 도움말 패널 열기 (현재 앱과 연관된 도움말 표시)
 - **What's New** 메가폰 아이콘: 최신 릴리즈 기능 정보 확인
+
+## 화면 스크린샷
+
+![화면1](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_10_image01.png)
+
+![화면2](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_10_image02.png)
+
+![화면3](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_10_image03.png)
+
+![화면4](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_10_image04.png)
+
+![화면5](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_10_image05.png)
+
+![화면6](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_10_image06.png)
+
+![화면7](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_10_image08.png)

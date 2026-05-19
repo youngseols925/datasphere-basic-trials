@@ -31,3 +31,11 @@ Chrome 브라우저에서 SAP Analytics Cloud URL로 접속한 후 개인 자격
   - (A) 컨텍스트 도움말 기사
   - (B) 학습 리소스
   - (C) 최신 기능 정보(What's New)
+
+## 화면 스크린샷
+
+![화면1](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_2_logon_image1.png)
+
+![화면2](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_2_logon_image2.png)
+
+![화면3](https://da4ug0lohul1.cloudfront.net/prod/AcademyContentFileImage/Trial_BTP-Datasphere/560_DSP_SAC_Visualization/Images/560_2_logon_image3.png)
