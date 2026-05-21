@@ -14,14 +14,12 @@ Chrome 브라우저에서 SAP Analytics Cloud URL로 접속한 후 개인 자격
 
 1. Chrome 브라우저에서 SAP Analytics Cloud URL 접속
 2. 사용자 자격 증명 입력 (Username / Password)
-3. 알림 수신 여부 팝업에서 **Decline** 선택
-
 
 ![화면](../images/560_DSP_SAC_Visualization_Images_560_2_logon_image1.png)
 
-![화면](../images/560_DSP_SAC_Visualization_Images_560_2_logon_image2.png)
+3. 알림 수신 여부 팝업에서 **Decline** 선택
 
-![화면](../images/560_DSP_SAC_Visualization_Images_560_2_logon_image3.png)
+![화면](../images/560_DSP_SAC_Visualization_Images_560_2_logon_image2.png)
 
 ### 화면 내비게이션 구성
 
@@ -38,3 +36,5 @@ Chrome 브라우저에서 SAP Analytics Cloud URL로 접속한 후 개인 자격
   - (A) 컨텍스트 도움말 기사
   - (B) 학습 리소스
   - (C) 최신 기능 정보(What's New)
+
+![화면](../images/560_DSP_SAC_Visualization_Images_560_2_logon_image3.png)

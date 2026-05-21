@@ -17,6 +17,10 @@
 **새 Story 생성**
 1. **Stories** 선택 후 **MyStory - Complete** 템플릿 선택
    - 더 많은 템플릿을 보려면 **Show More…** 선택
+
+![화면](../images/560_DSP_SAC_Visualization_Images_560_3_image4.png)
+![화면](../images/560_DSP_SAC_Visualization_Images_560_3_image5.png)
+
 2. Optimized Design Experience 모드로 Story 열림
 3. **Left Side Panel** 및 **Layouts Panel** 닫기
 
@@ -26,6 +30,10 @@
 - (C) **Views** 메뉴 → Left Side Panel (Assets, Outline, Filter 탭)
 
 **데이터 모델 추가 (Add a Data Model)**
+
+![화면](../images/560_DSP_SAC_Visualization_Images_560_3_image7.png)
+![화면](../images/560_DSP_SAC_Visualization_Images_560_3_image8.png)
+
 - SAP Datasphere에 대한 **Live Data Connection**에서 Analytic Model 연결
 - 데이터 소스로 **Sales Analytic Model** 선택
 
@@ -35,16 +43,4 @@
 > 💡 브라우저 크기에 따라 일부 기능만 표시될 수 있습니다.
 
 ![화면](../images/560_DSP_SAC_Visualization_Images_560_3_image2.png)
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_3_image3.png)
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_3_image4.png)
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_3_image5.png)
-
 ![화면](../images/560_DSP_SAC_Visualization_Images_560_3_image6.png)
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_3_image7.png)
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_3_image8.png)
-

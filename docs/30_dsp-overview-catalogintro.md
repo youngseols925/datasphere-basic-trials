@@ -2,6 +2,8 @@
 
 **소요 시간:** 약 5분
 
+![화면](../images/530_DSP_Catalog_Images_530_1_image2a.png)
+
 ## 학습 목표
 
 SAP Datasphere **Catalog**의 개념과 활용 방법을 이해합니다.
@@ -17,10 +19,7 @@ SAP Datasphere **Catalog**의 개념과 활용 방법을 이해합니다.
 - 사용자에게 신뢰할 수 있는 셀프서비스 데이터 탐색 환경 제공
 - **Data Marketplace**의 Data Products 및 Data Providers 목록 포함
 
-
 ![화면](../images/530_DSP_Catalog_Images_530_1_image1.png)
-
-![화면](../images/530_DSP_Catalog_Images_530_1_image2a.png)
 
 ### 이 단원에서 학습할 내용
 

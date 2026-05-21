@@ -2,6 +2,9 @@
 
 **소요 시간:** 약 10분
 
+![화면](../images/560_DSP_SAC_Visualization_Images_560_6_image1.png)
+![화면](../images/560_DSP_SAC_Visualization_Images_560_6_image2.png)
+
 ## 학습 목표
 
 Story에 테이블을 추가하여 데이터를 행/열 기준으로 분석합니다.
@@ -15,10 +18,16 @@ SAP Analytics Cloud Story에서 테이블은 데이터를 구조적으로 조회
 **테이블 생성**
 1. Story 편집 모드 열기
 2. 템플릿 메인 레인의 `+` **Create a Table** 플레이스홀더 선택
+
+![화면](../images/560_DSP_SAC_Visualization_Images_560_6_image4.png)
+
 3. **Right Side Panel (Builder, Styling)** 자동으로 열림
 
 **행/열 차원 설정**
 - **행(Rows)** → `+` **Add Dimension** → **SALESORG**, **PARTNERID** 추가
+
+![화면](../images/560_DSP_SAC_Visualization_Images_560_6_image6.png)
+
 - **열(Columns)** → `+` **Add Dimension** → **OrderCreationDate** 추가
   - 날짜 계층(Year, Quarter, Month, Day) 사용 가능
 
@@ -32,15 +41,5 @@ SAP Analytics Cloud Story에서 테이블은 데이터를 구조적으로 조회
 
 > 💡 SAP Help Portal의 **Tables** 문서를 참조하세요.
 
-![화면](../images/560_DSP_SAC_Visualization_Images_560_6_image1.png)
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_6_image2.png)
-
 ![화면](../images/560_DSP_SAC_Visualization_Images_560_6_image3.png)
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_6_image4.png)
-
 ![화면](../images/560_DSP_SAC_Visualization_Images_560_6_image5.png)
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_6_image6.png)
-

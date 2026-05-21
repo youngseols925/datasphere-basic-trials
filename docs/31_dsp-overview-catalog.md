@@ -10,25 +10,12 @@ Catalog를 탐색하여 데이터 자산에 대한 인사이트를 얻습니다.
 
 ### 사용자 역할별 권한
 
+![화면](../images/530_DSP_Catalog_Images_530_3_image2.png)
+
 - **Catalog Administrator**: 계층형 태그, 비즈니스 용어집(Glossary) 설정, KPI 생성, 자산 게시, Glossary Term 추가 가능
 - **Catalog User**: 고급 검색 및 필터로 데이터 오브젝트·분석 콘텐츠 탐색 가능
 
-
 ![화면](../images/530_DSP_Catalog_Images_530_3_image1.png)
-
-![화면](../images/530_DSP_Catalog_Images_530_3_image2.png)
-
-![화면](../images/530_DSP_Catalog_Images_530_3_image3.png)
-
-![화면](../images/530_DSP_Catalog_Images_530_3_image4.png)
-
-![화면](../images/530_DSP_Catalog_Images_530_3_image5.png)
-
-![화면](../images/530_DSP_Catalog_Images_530_3_image6.png)
-
-![화면](../images/530_DSP_Catalog_Images_530_3_image7.png)
-
-![화면](../images/530_DSP_Catalog_Images_530_3_image8.png)
 
 ### Catalog 내비게이션
 
@@ -41,11 +28,19 @@ Catalog를 탐색하여 데이터 자산에 대한 인사이트를 얻습니다.
 - **(C) Results**: 검색 및 필터 조건에 맞는 자산 표시 영역
 - **(D) Grid/List 보기 전환**: 검색 결과를 그리드 또는 목록 형태로 전환
 
+![화면](../images/530_DSP_Catalog_Images_530_3_image4.png)
+![화면](../images/530_DSP_Catalog_Images_530_3_image5.png)
+![화면](../images/530_DSP_Catalog_Images_530_3_image6.png)
+![화면](../images/530_DSP_Catalog_Images_530_3_image7.png)
+
 ### 자산 탐색 (Explore Assets)
 
 특정 데이터 자산을 기술명/비즈니스명 없이도 태그·품질 정보로 찾는 방법 실습:
 - **Filter by Criteria**로 검색 범위를 좁혀 원하는 자산 1건으로 필터링
 - 자산 상세 화면에서 **Overview**, **Relationships**, **Properties** 섹션 탐색
+
+![화면](../images/530_DSP_Catalog_Images_530_3_image3.png)
+![화면](../images/530_DSP_Catalog_Images_530_3_image8.png)
 
 ### Impact and Lineage 분석
 

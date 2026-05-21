@@ -10,30 +10,7 @@ Dimension 시맨틱 유형의 그래픽 뷰를 생성하고, 지오코드 데이
 ### 개요
 **Address Dimension** 뷰를 생성합니다. SAP Analytics Cloud의 Geo Map 기능을 지원하기 위해 지리 좌표(Geo-Coordinates)를 추가하고, 지역→국가→도시 레벨의 위치 계층을 정의합니다. 마지막으로 **Countries** 차원 테이블과 연결합니다.
 
-
 ![화면](../images/515_DSP_Data_Modeling_Images_515_4_image01.png)
-
-![화면](../images/515_DSP_Data_Modeling_Images_515_4_image02.png)
-
-![화면](../images/515_DSP_Data_Modeling_Images_515_4_image03.png)
-
-![화면](../images/515_DSP_Data_Modeling_Images_515_4_image05.png)
-
-![화면](../images/515_DSP_Data_Modeling_Images_515_4_image07.png)
-
-![화면](../images/515_DSP_Data_Modeling_Images_515_4_image09.png)
-
-![화면](../images/515_DSP_Data_Modeling_Images_515_4_image11.png)
-
-![화면](../images/515_DSP_Data_Modeling_Images_515_4_image13.png)
-
-![화면](../images/515_DSP_Data_Modeling_Images_515_4_image15.png)
-
-![화면](../images/515_DSP_Data_Modeling_Images_515_4_image17.png)
-
-![화면](../images/515_DSP_Data_Modeling_Images_515_4_image19.png)
-
-![화면](../images/515_DSP_Data_Modeling_Images_515_4_image20.png)
 
 ### 1단계: Address Dimension 뷰 생성
 1. **Data Builder**에서 **New Graphical View**를 열고 `Addresses` 테이블을 캔버스로 드래그합니다.
@@ -68,4 +45,18 @@ Dimension 시맨틱 유형의 그래픽 뷰를 생성하고, 지오코드 데이
 - **Geo-Coordinates** 시맨틱으로 SAC Geo Map 기능 지원
 - **Level-Based Hierarchy**로 드릴다운 분석 가능 (지역→국가→도시)
 - **Association**으로 차원 간 관계 정의 → SAC에서 자동 조인
+
+![화면](../images/515_DSP_Data_Modeling_Images_515_4_image05.png)
+![화면](../images/515_DSP_Data_Modeling_Images_515_4_image09.png)
+![화면](../images/515_DSP_Data_Modeling_Images_515_4_image17.png)
+![화면](../images/515_DSP_Data_Modeling_Images_515_4_image19.png)
+
 - **Impact & Lineage Analysis**에서 오브젝트 간 의존 관계 시각화
+
+![화면](../images/515_DSP_Data_Modeling_Images_515_4_image02.png)
+![화면](../images/515_DSP_Data_Modeling_Images_515_4_image03.png)
+![화면](../images/515_DSP_Data_Modeling_Images_515_4_image07.png)
+![화면](../images/515_DSP_Data_Modeling_Images_515_4_image11.png)
+![화면](../images/515_DSP_Data_Modeling_Images_515_4_image13.png)
+![화면](../images/515_DSP_Data_Modeling_Images_515_4_image15.png)
+![화면](../images/515_DSP_Data_Modeling_Images_515_4_image20.png)

@@ -26,21 +26,13 @@ Story에 **Numeric Point** 차트와 **Time Series** 차트를 추가합니다.
 - 시간 축(Time Dimension)과 측정값을 설정하여 시계열 추세 차트 구성
 - 차트 내비게이션으로 시계열 데이터 탐색
 
+![화면](../images/560_DSP_SAC_Visualization_Images_560_3_image3.png)
+![화면](../images/560_DSP_SAC_Visualization_Images_560_3_image4.png)
+![화면](../images/560_DSP_SAC_Visualization_Images_560_3_image5.png)
+![화면](../images/560_DSP_SAC_Visualization_Images_560_3_image6.png)
+![화면](../images/560_DSP_SAC_Visualization_Images_560_3_image7.png)
+
 > 💡 SAP Help Portal의 **Visualizing Data with Charts** 문서를 참조하세요.
 
-![화면](../images/560_DSP_SAC_Visualization_Images_560_4_image1.png)
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_4_image2.png)
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_4_image3.png)
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_4_image4.png)
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_4_image5.png)
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_4_image6.png)
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_4_image7.png)
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_4_image9.png)
-
+![화면](../images/560_DSP_SAC_Visualization_Images_560_3_image2.png)
+![화면](../images/560_DSP_SAC_Visualization_Images_560_3_image8.png)

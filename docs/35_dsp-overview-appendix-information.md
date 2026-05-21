@@ -15,15 +15,12 @@ SAP Datasphere에 대해 더 깊이 학습할 수 있는 외부 링크와 커뮤
 - **[Landing Page](https://www.sap.com/products/technology-platform/datasphere.html)**: SAP Datasphere의 주요 기능과 최신 정보를 확인할 수 있는 공식 출발점
 - **SAP Tutorials for Developers**: 개발자를 위한 셀프스터디 단원 모음
 
-
 ![화면](../images/580_DSP_Appendix_Images_580_1_image2.png)
-
 ![화면](../images/580_DSP_Appendix_Images_580_1_image3.png)
 
 ### Learning Journey (학습 여정)
 
 - **Exploring SAP Datasphere**: SAP Datasphere 입문 및 SAP 데이터 웨어하우스 전략 소개 공식 학습 여정
-
 
 ![화면](../images/580_DSP_Appendix_Images_580_1_image7.png)
 

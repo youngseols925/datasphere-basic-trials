@@ -1,6 +1,18 @@
+
+
+![화면](../images/525_DSP_Analytic_Model_Images_525_5_image05.png)
+![화면](../images/525_DSP_Analytic_Model_Images_525_5_image08.png)
+![화면](../images/525_DSP_Analytic_Model_Images_525_5_image09.png)
+![화면](../images/525_DSP_Analytic_Model_Images_525_5_image12.png)
+
 # 18. Analytic Model 데이터 미리보기 (Preview the Analytic Model Data)
 
 **소요 시간:** 약 10분
+
+![화면](../images/525_DSP_Analytic_Model_Images_525_5_image01.png)
+![화면](../images/525_DSP_Analytic_Model_Images_525_5_image02.png)
+![화면](../images/525_DSP_Analytic_Model_Images_525_5_image03.png)
+![화면](../images/525_DSP_Analytic_Model_Images_525_5_image04.png)
 
 ## 학습 목표
 
@@ -41,20 +53,3 @@
 - Business Partner 차원 기준 데이터 조회 및 분석
 
 > 💡 더 자세한 내용은 SAP Help Portal의 **Using the Data Preview** 문서를 참조하세요.
-
-![화면](../images/525_DSP_Analytic_Model_Images_525_5_image01.png)
-
-![화면](../images/525_DSP_Analytic_Model_Images_525_5_image02.png)
-
-![화면](../images/525_DSP_Analytic_Model_Images_525_5_image03.png)
-
-![화면](../images/525_DSP_Analytic_Model_Images_525_5_image04.png)
-
-![화면](../images/525_DSP_Analytic_Model_Images_525_5_image05.png)
-
-![화면](../images/525_DSP_Analytic_Model_Images_525_5_image08.png)
-
-![화면](../images/525_DSP_Analytic_Model_Images_525_5_image09.png)
-
-![화면](../images/525_DSP_Analytic_Model_Images_525_5_image12.png)
-

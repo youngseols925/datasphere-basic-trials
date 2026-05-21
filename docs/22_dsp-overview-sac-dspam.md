@@ -2,6 +2,8 @@
 
 **소요 시간:** 약 10분
 
+![화면](../images/560_DSP_SAC_Visualization_Images_560_11_image03.png)
+
 ## 학습 목표
 
 JSON 파일에서 Analytic Model 템플릿을 임포트하여 SAP Analytics Cloud 시각화 단원을 진행할 수 있도록 준비합니다.
@@ -14,28 +16,25 @@ JSON 파일에서 Analytic Model 템플릿을 임포트하여 SAP Analytics Clou
 
 1. `4OV_SALES_ANALYTIC_MODEL.JSON` 파일을 로컬에 다운로드
 2. 사이드 네비게이션에서 **Data Builder** 선택 후 개인 스페이스 선택
+
+![화면](../images/560_DSP_SAC_Visualization_Images_560_11_image05.png)
+
 3. 상단 툴바에서 **Import → Import Objects from CSN/JSON File** 선택
 4. 다운로드한 JSON 파일 선택
 5. **Select Objects to Import** 팝업에서 **4OV_Sales Analytic Model** 선택 후 **Import CSN File** 클릭
 6. 임포트 완료 알림 확인 → 오브젝트 목록에 'Not Deployed' 상태로 표시됨
 
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_11_image03.png)
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_11_image05.png)
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_11_image07.png)
+### 모델 배포 및 열기
 
 ![화면](../images/560_DSP_SAC_Visualization_Images_560_11_image07a.png)
-
 ![화면](../images/560_DSP_SAC_Visualization_Images_560_11_image07b.png)
-
 ![화면](../images/560_DSP_SAC_Visualization_Images_560_11_image09.png)
-
-### 모델 배포 및 열기
 
 1. **4OV_Sales Analytic Model** 선택 후 **Deploy** 아이콘 클릭
 2. 배포 완료 알림 확인
+
+![화면](../images/560_DSP_SAC_Visualization_Images_560_11_image07.png)
+
 3. [Optional] 모델을 열어 미리보기로 검증 가능
 
 > 이 모델은 SAP Datasphere ↔ SAP Analytics Cloud 라이브 연결(Live Connection)의 소스로 활용됩니다.

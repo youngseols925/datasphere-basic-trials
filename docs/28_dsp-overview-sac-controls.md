@@ -2,6 +2,8 @@
 
 **소요 시간:** 약 10분
 
+![화면](../images/560_DSP_SAC_Visualization_Images_560_7_image1.png)
+
 ## 학습 목표
 
 특정 위젯에만 필터를 적용하는 **Input Control**을 생성하고 **Linked Analysis**로 연결합니다.
@@ -16,8 +18,17 @@
 - 템플릿에 4개의 Input Control 플레이스홀더 중 2개만 필요 → 2개 삭제
 
 **날짜 Input Control 생성 (연도 필터)**
+
+![화면](../images/560_DSP_SAC_Visualization_Images_560_7_image3.png)
+![화면](../images/560_DSP_SAC_Visualization_Images_560_7_image4.png)
+![화면](../images/560_DSP_SAC_Visualization_Images_560_7_image6.png)
+![화면](../images/560_DSP_SAC_Visualization_Images_560_7_image7.png)
+
 1. 템플릿 Filter Lane의 `+` **Create an Input Control** 플레이스홀더 선택
 2. **Dimensions** → **OrderCreationDate** → **Filter by Member** 선택
+
+![화면](../images/560_DSP_SAC_Visualization_Images_560_7_image2.png)
+
 3. 연도 목록 확장 후 **2021, 2022, 2023** 선택 → **OK**
 4. 위젯 크기 조절로 모든 연도 표시
 
@@ -32,16 +43,3 @@
 - 연도 및 판매 조직 필터를 변경하면 연결된 위젯이 동적으로 업데이트
 
 > 💡 SAP Help Portal의 **Input Controls** 문서를 참조하세요.
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_7_image1.png)
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_7_image2.png)
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_7_image3.png)
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_7_image4.png)
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_7_image6.png)
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_7_image7.png)
-

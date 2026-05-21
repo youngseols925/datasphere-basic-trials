@@ -10,22 +10,21 @@
 
 **Just Ask**는 AI 기반 자연어 질의(NLQ) 기능입니다. 일상적인 영어로 질문을 입력하면 차트와 테이블 형태로 즉시 답변을 제공합니다. SAP Analytics Cloud 데이터 모델과 SAP Datasphere 모델을 모두 지원합니다.
 
+![화면](../images/560_DSP_SAC_Visualization_Images_560_8_image31.png)
+
 ### 사전 요건
 
 다음 중 하나가 완료되어 있어야 합니다:
+
+![화면](../images/560_DSP_SAC_Visualization_Images_560_8_image02.png)
+![화면](../images/560_DSP_SAC_Visualization_Images_560_8_image04.png)
+![화면](../images/560_DSP_SAC_Visualization_Images_560_8_image05.png)
+![화면](../images/560_DSP_SAC_Visualization_Images_560_8_image07.png)
+
 - **Analytic Modeling** 단원에서 Sales Analytic Model 직접 생성
 - **Import Analytic Model** 선택 단원에서 템플릿 임포트
 
-
 ![화면](../images/560_DSP_SAC_Visualization_Images_560_8_image01.png)
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_8_image02.png)
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_8_image04.png)
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_8_image05.png)
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_8_image07.png)
 
 ### 단계별 실습
 
@@ -45,6 +44,3 @@
 - Just Ask 결과를 **Data Analyzer** 도구로 연결하여 더 심층적인 분석 수행
 
 > 💡 SAP Help Portal의 **Just Ask** 문서를 참조하세요.
-
-![화면](../images/560_DSP_SAC_Visualization_Images_560_8_image31.png)
-

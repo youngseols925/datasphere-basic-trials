@@ -14,7 +14,6 @@ SAP Datasphere의 기능과 특징을 단계별 가상 워크스루(Virtual Walk
 - SAP Datasphere 플랫폼의 다양한 페이지와 컴포넌트를 탐색하여 레이아웃과 기능을 이해합니다.
 - 투어 링크에 접근하여 SAP Datasphere 내의 단계를 따라 진행합니다.
 
-
 ![화면](../images/495_Guided_Tours_Images_1.png)
 
 ## 핵심 포인트

@@ -5,21 +5,20 @@
 ## 학습 목표
 SAP Datasphere 사용자 스페이스에 접근하고 탐색합니다.
 
+![화면](../images/505_DSP_Getting_Started_Images_505_5_image01.png)
+
 ## 주요 내용
+
+![화면](../images/505_DSP_Getting_Started_Images_505_5_image03.png)
+![화면](../images/505_DSP_Getting_Started_Images_505_5_image05.png)
+![화면](../images/505_DSP_Getting_Started_Images_505_5_image09.png)
 
 ### 스페이스(Space)란?
 스페이스는 SAP Datasphere에서 팀/프로젝트/부서 단위의 가상 환경입니다. 관리자가 사용자를 할당하고, 소스 시스템 연결을 추가하며, 메모리와 스토리지를 배분합니다.
 
 모든 데이터 수집, 준비, 모델링은 스페이스 내부에서 이루어지며, 스페이스 데이터는 다른 스페이스에 공유되거나 소비(Consumption)용으로 공개되지 않는 한 외부에서 접근할 수 없습니다.
 
-
-![화면](../images/505_DSP_Getting_Started_Images_505_5_image01.png)
-
 ![화면](../images/505_DSP_Getting_Started_Images_505_5_image02.png)
-
-![화면](../images/505_DSP_Getting_Started_Images_505_5_image03.png)
-
-![화면](../images/505_DSP_Getting_Started_Images_505_5_image05.png)
 
 ### 스페이스 탐색 단계
 
@@ -31,18 +30,15 @@ SAP Datasphere 사용자 스페이스에 접근하고 탐색합니다.
 5. **Users** 섹션에서 내 사용자 ID가 스페이스에 이미 할당되어 있는지 확인합니다.
 6. **Time Data** 섹션에서 스페이스의 시간 데이터를 생성할 수 있습니다. 연도 범위를 업데이트하면 시간 테이블과 차원 뷰가 생성됩니다 (Year, Quarter, Month, Day 계층 구조 활용 가능).
    > **참고**: 이 워크북에서는 해당 오브젝트가 이미 사전 정의되어 공유된 상태입니다.
+
+![화면](../images/505_DSP_Getting_Started_Images_505_5_image10.png)
+![화면](../images/505_DSP_Getting_Started_Images_505_5_image11.png)
+
 7. **Cancel** 버튼을 선택합니다.
 8. 사이드 내비게이션에서 **Repository Explorer**를 선택하고, 다음 사전 정의된 오브젝트를 확인합니다:
    - Dimension 타입 뷰 4개
    - Text 타입 로컬 테이블 3개
    - Relational Dataset 타입 로컬 테이블 1개
-
-
-![화면](../images/505_DSP_Getting_Started_Images_505_5_image09.png)
-
-![화면](../images/505_DSP_Getting_Started_Images_505_5_image10.png)
-
-![화면](../images/505_DSP_Getting_Started_Images_505_5_image11.png)
 
 ## 핵심 포인트
 - SAP Datasphere의 모든 데이터 워크플로우는 스페이스 선택에서 시작됨

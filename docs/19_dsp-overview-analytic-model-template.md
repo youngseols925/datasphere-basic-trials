@@ -12,26 +12,22 @@
 
 **핵심 참고사항:** Analytic Model은 다른 SAP Datasphere 스페이스로 공유(Share)할 수 없습니다. 따라서 JSON 파일 형태로 제공되며, 개인 스페이스에 직접 임포트해야 합니다.
 
+![화면](../images/525_DSP_Analytic_Model_Images_525_7_image03.png)
+
 ### 사전 정의된 오브젝트 위치
 
 - 스페이스: **CENTRAL DATA**
 - 폴더: **WORKBOOK_OVERVIEW**
 - 공유 오브젝트 이름 접두사: `4OV_`
 
-
-![화면](../images/525_DSP_Analytic_Model_Images_525_7_image03.png)
-
-![화면](../images/525_DSP_Analytic_Model_Images_525_7_image05.png)
-
-![화면](../images/525_DSP_Analytic_Model_Images_525_7_image07.png)
-
-![화면](../images/525_DSP_Analytic_Model_Images_525_7_image09.png)
-
 ### 단계별 실습
 
 **JSON 파일 업로드**
 1. `4OV_SALES_ANALYTIC_MODEL.JSON` 파일을 로컬에 다운로드
 2. 사이드 네비게이션에서 **Data Builder** 선택
+
+![화면](../images/525_DSP_Analytic_Model_Images_525_7_image05.png)
+
 3. 개인 스페이스 선택
 4. **Import** 아이콘 → **Import Objects from CSN/JSON File** 선택
 5. 다운로드한 JSON 파일 선택
@@ -39,6 +35,10 @@
 
 **모델 배포 및 열기 (Deploy and Open Model)**
 1. 임포트 완료 알림 확인
+
+![화면](../images/525_DSP_Analytic_Model_Images_525_7_image07.png)
+![화면](../images/525_DSP_Analytic_Model_Images_525_7_image09.png)
+
 2. **Deploy** 버튼으로 모델 배포
 3. 배포 완료 후 모델 열기
 4. **Preview** 전환하여 데이터 확인

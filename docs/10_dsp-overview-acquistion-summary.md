@@ -2,6 +2,9 @@
 
 > **원본 레슨**: dsp-overview-acquistion-summary | **소요시간**: 2분
 
+![화면](../images/510_DSP_Data_Acquisition_Images_510_8_image01.png)
+![화면](../images/510_DSP_Data_Acquisition_Images_510_8_image03.png)
+
 ## 학습 목표
 데이터 수집 단원에서 배운 내용을 정리합니다.
 
@@ -22,11 +25,6 @@
 - BusinessPartners, Addresses (Remote Table, 영속화)
 - Products, ProductTexts (Remote Table, 페더레이션)
 - Countries, CountryTexts (로컬 테이블, CSV 업로드)
-
-
-![화면](../images/510_DSP_Data_Acquisition_Images_510_8_image01.png)
-
-![화면](../images/510_DSP_Data_Acquisition_Images_510_8_image03.png)
 
 ### 다음 단계
 수집된 데이터를 기반으로 **Data Modeling** 단원에서 차원(Dimension)과 팩트(Fact) 뷰를 구성합니다.
