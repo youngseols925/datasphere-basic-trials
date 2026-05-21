@@ -18,6 +18,15 @@
 - 폴더: **WORKBOOK_OVERVIEW**
 - 공유 오브젝트 이름 접두사: `4OV_`
 
+
+![화면](../images/525_DSP_Analytic_Model_Images_525_7_image03.png)
+
+![화면](../images/525_DSP_Analytic_Model_Images_525_7_image05.png)
+
+![화면](../images/525_DSP_Analytic_Model_Images_525_7_image07.png)
+
+![화면](../images/525_DSP_Analytic_Model_Images_525_7_image09.png)
+
 ### 단계별 실습
 
 **JSON 파일 업로드**
@@ -35,13 +44,3 @@
 4. **Preview** 전환하여 데이터 확인
 
 > 이 템플릿을 통해 SAP Analytics Cloud와의 라이브 연결(Live Connection) 소스로 활용할 수 있습니다.
-
-## 화면 스크린샷
-
-![화면1](../images/525_DSP_Analytic_Model_Images_525_7_image03.png)
-
-![화면2](../images/525_DSP_Analytic_Model_Images_525_7_image05.png)
-
-![화면3](../images/525_DSP_Analytic_Model_Images_525_7_image07.png)
-
-![화면4](../images/525_DSP_Analytic_Model_Images_525_7_image09.png)

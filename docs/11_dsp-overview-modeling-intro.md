@@ -10,6 +10,13 @@
 ### SAP Datasphere 데이터 모델링 개요
 **Data Builder**에서 데이터를 가져오고, 결합하여 SAP Analytics Cloud 및 기타 BI 클라이언트에서 소비할 수 있도록 준비합니다. 원격/로컬 테이블 위에 그래픽 뷰와 SQL 뷰를 생성하여 데이터 모델링의 기반을 구축합니다.
 
+
+![화면](../images/515_DSP_Data_Modeling_Images_515_1_image01.png)
+
+![화면](../images/515_DSP_Data_Modeling_Images_515_1_image02.png)
+
+![화면](../images/515_DSP_Data_Modeling_Images_515_1_image04.png)
+
 ### 시맨틱 사용 유형 (Semantic Usage Types)
 - **Fact**: 분석 가능한 하나 이상의 측정값(Measure)을 포함하는 엔티티
 - **Dimension**: 다른 엔티티의 측정값을 분석·분류하는 속성(Attribute)을 포함하는 엔티티
@@ -34,11 +41,3 @@
 - 데이터 모델링은 **Data Builder**에서 뷰(View) 형태로 수행
 - 시맨틱 유형 지정으로 BI 도구가 데이터를 올바르게 해석 가능
 - 모듈식 접근: **CENTRAL_DATA** 공유 데이터를 활용해 이전 단원 없이도 진행 가능
-
-## 화면 스크린샷
-
-![화면1](../images/515_DSP_Data_Modeling_Images_515_1_image01.png)
-
-![화면2](../images/515_DSP_Data_Modeling_Images_515_1_image02.png)
-
-![화면3](../images/515_DSP_Data_Modeling_Images_515_1_image04.png)

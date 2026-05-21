@@ -19,6 +19,19 @@ JSON 파일에서 Analytic Model 템플릿을 임포트하여 SAP Analytics Clou
 5. **Select Objects to Import** 팝업에서 **4OV_Sales Analytic Model** 선택 후 **Import CSN File** 클릭
 6. 임포트 완료 알림 확인 → 오브젝트 목록에 'Not Deployed' 상태로 표시됨
 
+
+![화면](../images/560_DSP_SAC_Visualization_Images_560_11_image03.png)
+
+![화면](../images/560_DSP_SAC_Visualization_Images_560_11_image05.png)
+
+![화면](../images/560_DSP_SAC_Visualization_Images_560_11_image07.png)
+
+![화면](../images/560_DSP_SAC_Visualization_Images_560_11_image07a.png)
+
+![화면](../images/560_DSP_SAC_Visualization_Images_560_11_image07b.png)
+
+![화면](../images/560_DSP_SAC_Visualization_Images_560_11_image09.png)
+
 ### 모델 배포 및 열기
 
 1. **4OV_Sales Analytic Model** 선택 후 **Deploy** 아이콘 클릭
@@ -26,17 +39,3 @@ JSON 파일에서 Analytic Model 템플릿을 임포트하여 SAP Analytics Clou
 3. [Optional] 모델을 열어 미리보기로 검증 가능
 
 > 이 모델은 SAP Datasphere ↔ SAP Analytics Cloud 라이브 연결(Live Connection)의 소스로 활용됩니다.
-
-## 화면 스크린샷
-
-![화면1](../images/560_DSP_SAC_Visualization_Images_560_11_image03.png)
-
-![화면2](../images/560_DSP_SAC_Visualization_Images_560_11_image05.png)
-
-![화면3](../images/560_DSP_SAC_Visualization_Images_560_11_image07.png)
-
-![화면4](../images/560_DSP_SAC_Visualization_Images_560_11_image07a.png)
-
-![화면5](../images/560_DSP_SAC_Visualization_Images_560_11_image07b.png)
-
-![화면6](../images/560_DSP_SAC_Visualization_Images_560_11_image09.png)

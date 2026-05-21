@@ -20,18 +20,17 @@ Chrome 브라우저를 열고 워크샵 주관자가 제공한 SAP Datasphere UR
 - 우측 상단 **"?"** 아이콘: 인앱 도움말 패널 열기 (현재 앱과 연관된 도움말 표시)
 - **What's New** 메가폰 아이콘: 최신 릴리즈 기능 정보 확인
 
-## 화면 스크린샷
+![화면](../images/560_DSP_SAC_Visualization_Images_560_10_image01.png)
 
-![화면1](../images/560_DSP_SAC_Visualization_Images_560_10_image01.png)
+![화면](../images/560_DSP_SAC_Visualization_Images_560_10_image02.png)
 
-![화면2](../images/560_DSP_SAC_Visualization_Images_560_10_image02.png)
+![화면](../images/560_DSP_SAC_Visualization_Images_560_10_image03.png)
 
-![화면3](../images/560_DSP_SAC_Visualization_Images_560_10_image03.png)
+![화면](../images/560_DSP_SAC_Visualization_Images_560_10_image04.png)
 
-![화면4](../images/560_DSP_SAC_Visualization_Images_560_10_image04.png)
+![화면](../images/560_DSP_SAC_Visualization_Images_560_10_image05.png)
 
-![화면5](../images/560_DSP_SAC_Visualization_Images_560_10_image05.png)
+![화면](../images/560_DSP_SAC_Visualization_Images_560_10_image06.png)
 
-![화면6](../images/560_DSP_SAC_Visualization_Images_560_10_image06.png)
+![화면](../images/560_DSP_SAC_Visualization_Images_560_10_image08.png)
 
-![화면7](../images/560_DSP_SAC_Visualization_Images_560_10_image08.png)

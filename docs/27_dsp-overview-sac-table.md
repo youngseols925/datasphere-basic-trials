@@ -32,16 +32,15 @@ SAP Analytics Cloud Story에서 테이블은 데이터를 구조적으로 조회
 
 > 💡 SAP Help Portal의 **Tables** 문서를 참조하세요.
 
-## 화면 스크린샷
+![화면](../images/560_DSP_SAC_Visualization_Images_560_6_image1.png)
 
-![화면1](../images/560_DSP_SAC_Visualization_Images_560_6_image1.png)
+![화면](../images/560_DSP_SAC_Visualization_Images_560_6_image2.png)
 
-![화면2](../images/560_DSP_SAC_Visualization_Images_560_6_image2.png)
+![화면](../images/560_DSP_SAC_Visualization_Images_560_6_image3.png)
 
-![화면3](../images/560_DSP_SAC_Visualization_Images_560_6_image3.png)
+![화면](../images/560_DSP_SAC_Visualization_Images_560_6_image4.png)
 
-![화면4](../images/560_DSP_SAC_Visualization_Images_560_6_image4.png)
+![화면](../images/560_DSP_SAC_Visualization_Images_560_6_image5.png)
 
-![화면5](../images/560_DSP_SAC_Visualization_Images_560_6_image5.png)
+![화면](../images/560_DSP_SAC_Visualization_Images_560_6_image6.png)
 
-![화면6](../images/560_DSP_SAC_Visualization_Images_560_6_image6.png)

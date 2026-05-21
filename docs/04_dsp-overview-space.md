@@ -12,6 +12,15 @@ SAP Datasphere 사용자 스페이스에 접근하고 탐색합니다.
 
 모든 데이터 수집, 준비, 모델링은 스페이스 내부에서 이루어지며, 스페이스 데이터는 다른 스페이스에 공유되거나 소비(Consumption)용으로 공개되지 않는 한 외부에서 접근할 수 없습니다.
 
+
+![화면](../images/505_DSP_Getting_Started_Images_505_5_image01.png)
+
+![화면](../images/505_DSP_Getting_Started_Images_505_5_image02.png)
+
+![화면](../images/505_DSP_Getting_Started_Images_505_5_image03.png)
+
+![화면](../images/505_DSP_Getting_Started_Images_505_5_image05.png)
+
 ### 스페이스 탐색 단계
 
 1. 왼쪽 사이드 내비게이션을 확장하고 **Space Management**를 선택합니다.
@@ -28,24 +37,15 @@ SAP Datasphere 사용자 스페이스에 접근하고 탐색합니다.
    - Text 타입 로컬 테이블 3개
    - Relational Dataset 타입 로컬 테이블 1개
 
+
+![화면](../images/505_DSP_Getting_Started_Images_505_5_image09.png)
+
+![화면](../images/505_DSP_Getting_Started_Images_505_5_image10.png)
+
+![화면](../images/505_DSP_Getting_Started_Images_505_5_image11.png)
+
 ## 핵심 포인트
 - SAP Datasphere의 모든 데이터 워크플로우는 스페이스 선택에서 시작됨
 - 스페이스는 보안 영역으로, 명시적으로 공유하지 않는 한 외부 접근 불가
 - 사전 정의된 시간 데이터 테이블과 차원 뷰가 스페이스에 공유되어 있음
 - **Repository Explorer**에서 스페이스 내 오브젝트 확인 가능
-
-## 화면 스크린샷
-
-![화면1](../images/505_DSP_Getting_Started_Images_505_5_image01.png)
-
-![화면2](../images/505_DSP_Getting_Started_Images_505_5_image02.png)
-
-![화면3](../images/505_DSP_Getting_Started_Images_505_5_image03.png)
-
-![화면4](../images/505_DSP_Getting_Started_Images_505_5_image05.png)
-
-![화면5](../images/505_DSP_Getting_Started_Images_505_5_image09.png)
-
-![화면6](../images/505_DSP_Getting_Started_Images_505_5_image10.png)
-
-![화면7](../images/505_DSP_Getting_Started_Images_505_5_image11.png)

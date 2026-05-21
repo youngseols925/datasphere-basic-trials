@@ -13,6 +13,23 @@ Catalog를 탐색하여 데이터 자산에 대한 인사이트를 얻습니다.
 - **Catalog Administrator**: 계층형 태그, 비즈니스 용어집(Glossary) 설정, KPI 생성, 자산 게시, Glossary Term 추가 가능
 - **Catalog User**: 고급 검색 및 필터로 데이터 오브젝트·분석 콘텐츠 탐색 가능
 
+
+![화면](../images/530_DSP_Catalog_Images_530_3_image1.png)
+
+![화면](../images/530_DSP_Catalog_Images_530_3_image2.png)
+
+![화면](../images/530_DSP_Catalog_Images_530_3_image3.png)
+
+![화면](../images/530_DSP_Catalog_Images_530_3_image4.png)
+
+![화면](../images/530_DSP_Catalog_Images_530_3_image5.png)
+
+![화면](../images/530_DSP_Catalog_Images_530_3_image6.png)
+
+![화면](../images/530_DSP_Catalog_Images_530_3_image7.png)
+
+![화면](../images/530_DSP_Catalog_Images_530_3_image8.png)
+
 ### Catalog 내비게이션
 
 좌측 **Navigation Menu** → **Catalog & Marketplace** → **Search** 선택
@@ -37,21 +54,3 @@ Catalog를 탐색하여 데이터 자산에 대한 인사이트를 얻습니다.
 - 해당 자산 변경 시 영향 받는 다운스트림 오브젝트 확인
 - Analytic Model의 Impact and Lineage 다이어그램도 별도 탐색
 - 다이어그램 레이아웃 변경 기능 제공
-
-## 화면 스크린샷
-
-![화면1](../images/530_DSP_Catalog_Images_530_3_image1.png)
-
-![화면2](../images/530_DSP_Catalog_Images_530_3_image2.png)
-
-![화면3](../images/530_DSP_Catalog_Images_530_3_image3.png)
-
-![화면4](../images/530_DSP_Catalog_Images_530_3_image4.png)
-
-![화면5](../images/530_DSP_Catalog_Images_530_3_image5.png)
-
-![화면6](../images/530_DSP_Catalog_Images_530_3_image6.png)
-
-![화면7](../images/530_DSP_Catalog_Images_530_3_image7.png)
-
-![화면8](../images/530_DSP_Catalog_Images_530_3_image8.png)

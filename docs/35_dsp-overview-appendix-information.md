@@ -15,9 +15,17 @@ SAP Datasphere에 대해 더 깊이 학습할 수 있는 외부 링크와 커뮤
 - **[Landing Page](https://www.sap.com/products/technology-platform/datasphere.html)**: SAP Datasphere의 주요 기능과 최신 정보를 확인할 수 있는 공식 출발점
 - **SAP Tutorials for Developers**: 개발자를 위한 셀프스터디 단원 모음
 
+
+![화면](../images/580_DSP_Appendix_Images_580_1_image2.png)
+
+![화면](../images/580_DSP_Appendix_Images_580_1_image3.png)
+
 ### Learning Journey (학습 여정)
 
 - **Exploring SAP Datasphere**: SAP Datasphere 입문 및 SAP 데이터 웨어하우스 전략 소개 공식 학습 여정
+
+
+![화면](../images/580_DSP_Appendix_Images_580_1_image7.png)
 
 ### SAP Learning Community 참여
 
@@ -28,11 +36,3 @@ SAP Datasphere에 대해 더 깊이 학습할 수 있는 외부 링크와 커뮤
 
 > 🎉 **SAP Datasphere Overview 학습 과정을 모두 완료했습니다!**
 > 본 과정에서는 데이터 수집(Replication Flow, Data Flow, Remote Table, Local Table), 데이터 모델링(Dimension View, Fact View), 분석 모델링(Analytic Model), SAP Analytics Cloud 리포팅, Catalog 탐색, Open SQL Schema, Data Access Control까지 SAP Datasphere의 핵심 기능 전반을 다루었습니다.
-
-## 화면 스크린샷
-
-![화면1](../images/580_DSP_Appendix_Images_580_1_image2.png)
-
-![화면2](../images/580_DSP_Appendix_Images_580_1_image3.png)
-
-![화면3](../images/580_DSP_Appendix_Images_580_1_image7.png)

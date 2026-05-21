@@ -42,20 +42,19 @@
 
 > 💡 더 자세한 내용은 SAP Help Portal의 **Using the Data Preview** 문서를 참조하세요.
 
-## 화면 스크린샷
+![화면](../images/525_DSP_Analytic_Model_Images_525_5_image01.png)
 
-![화면1](../images/525_DSP_Analytic_Model_Images_525_5_image01.png)
+![화면](../images/525_DSP_Analytic_Model_Images_525_5_image02.png)
 
-![화면2](../images/525_DSP_Analytic_Model_Images_525_5_image02.png)
+![화면](../images/525_DSP_Analytic_Model_Images_525_5_image03.png)
 
-![화면3](../images/525_DSP_Analytic_Model_Images_525_5_image03.png)
+![화면](../images/525_DSP_Analytic_Model_Images_525_5_image04.png)
 
-![화면4](../images/525_DSP_Analytic_Model_Images_525_5_image04.png)
+![화면](../images/525_DSP_Analytic_Model_Images_525_5_image05.png)
 
-![화면5](../images/525_DSP_Analytic_Model_Images_525_5_image05.png)
+![화면](../images/525_DSP_Analytic_Model_Images_525_5_image08.png)
 
-![화면6](../images/525_DSP_Analytic_Model_Images_525_5_image08.png)
+![화면](../images/525_DSP_Analytic_Model_Images_525_5_image09.png)
 
-![화면7](../images/525_DSP_Analytic_Model_Images_525_5_image09.png)
+![화면](../images/525_DSP_Analytic_Model_Images_525_5_image12.png)
 
-![화면8](../images/525_DSP_Analytic_Model_Images_525_5_image12.png)

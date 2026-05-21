@@ -17,6 +17,11 @@ SAP Datasphere **Catalog**의 개념과 활용 방법을 이해합니다.
 - 사용자에게 신뢰할 수 있는 셀프서비스 데이터 탐색 환경 제공
 - **Data Marketplace**의 Data Products 및 Data Providers 목록 포함
 
+
+![화면](../images/530_DSP_Catalog_Images_530_1_image1.png)
+
+![화면](../images/530_DSP_Catalog_Images_530_1_image2a.png)
+
 ### 이 단원에서 학습할 내용
 
 - Catalog 내비게이션 방법
@@ -27,9 +32,3 @@ SAP Datasphere **Catalog**의 개념과 활용 방법을 이해합니다.
 > 💡 이 단원에서 탐색할 자산은 이전 단원에서 생성한 오브젝트의 사본으로, 이미 보강(Enrich) 및 게시(Publish) 처리되어 있습니다.
 >
 > SAP Help Portal의 **Catalog Concepts** 문서를 참조하세요.
-
-## 화면 스크린샷
-
-![화면1](../images/530_DSP_Catalog_Images_530_1_image2a.png)
-
-![화면2](../images/530_DSP_Catalog_Images_530_1_image1.png)

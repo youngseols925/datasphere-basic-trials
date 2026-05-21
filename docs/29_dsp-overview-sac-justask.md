@@ -16,6 +16,17 @@
 - **Analytic Modeling** 단원에서 Sales Analytic Model 직접 생성
 - **Import Analytic Model** 선택 단원에서 템플릿 임포트
 
+
+![화면](../images/560_DSP_SAC_Visualization_Images_560_8_image01.png)
+
+![화면](../images/560_DSP_SAC_Visualization_Images_560_8_image02.png)
+
+![화면](../images/560_DSP_SAC_Visualization_Images_560_8_image04.png)
+
+![화면](../images/560_DSP_SAC_Visualization_Images_560_8_image05.png)
+
+![화면](../images/560_DSP_SAC_Visualization_Images_560_8_image07.png)
+
 ### 단계별 실습
 
 **Just Ask 실행**
@@ -35,16 +46,5 @@
 
 > 💡 SAP Help Portal의 **Just Ask** 문서를 참조하세요.
 
-## 화면 스크린샷
+![화면](../images/560_DSP_SAC_Visualization_Images_560_8_image31.png)
 
-![화면1](../images/560_DSP_SAC_Visualization_Images_560_8_image31.png)
-
-![화면2](../images/560_DSP_SAC_Visualization_Images_560_8_image01.png)
-
-![화면3](../images/560_DSP_SAC_Visualization_Images_560_8_image02.png)
-
-![화면4](../images/560_DSP_SAC_Visualization_Images_560_8_image04.png)
-
-![화면5](../images/560_DSP_SAC_Visualization_Images_560_8_image05.png)
-
-![화면6](../images/560_DSP_SAC_Visualization_Images_560_8_image07.png)

@@ -23,6 +23,11 @@
 - Products, ProductTexts (Remote Table, 페더레이션)
 - Countries, CountryTexts (로컬 테이블, CSV 업로드)
 
+
+![화면](../images/510_DSP_Data_Acquisition_Images_510_8_image01.png)
+
+![화면](../images/510_DSP_Data_Acquisition_Images_510_8_image03.png)
+
 ### 다음 단계
 수집된 데이터를 기반으로 **Data Modeling** 단원에서 차원(Dimension)과 팩트(Fact) 뷰를 구성합니다.
 
@@ -30,9 +35,3 @@
 - 페더레이션과 복제를 비즈니스 요건에 맞게 조합하여 사용
 - 모든 수집 오브젝트는 **CENTRAL_DATA** 공유 스페이스에도 사전 준비되어 있음
 - 다음 단원(Data Modeling)을 독립적으로 시작할 수 있음
-
-## 화면 스크린샷
-
-![화면1](../images/510_DSP_Data_Acquisition_Images_510_8_image01.png)
-
-![화면2](../images/510_DSP_Data_Acquisition_Images_510_8_image03.png)
